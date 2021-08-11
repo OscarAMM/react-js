@@ -1,11 +1,11 @@
 import React from 'react'
 
-const paragraph = () => {
+const Paragraph = () => {
     return (
         <div>
-            
+            <p>Esto es una prueba para react</p>
         </div>
     )
 }
 
-export default paragraph
+export default Paragraph

@@ -3,7 +3,7 @@ import React from 'react'
 const Paragraph = () => {
     return (
         <div>
-            <p>Esto es una prueba para react</p>
+            <p>Chule es una puerca</p>
         </div>
     )
 }
